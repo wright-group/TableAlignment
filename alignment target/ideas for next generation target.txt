@@ -1,0 +1,3 @@
+Color front surface before milling target.
+
+Have cross hairs centered on pinhole.
